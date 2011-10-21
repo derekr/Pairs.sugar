@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<action-recipes>
+
+	<!-- Hidden actions -->
+  
+  <action id="com.whatupderek.sugar.pairs.single-quote" category="hidden">
+    <script>pairs.js</script>
+    <text-trigger key-equivalent="'"></text-trigger>
+  </action>
+  
+  <action id="com.whatupderek.sugar.pairs.double-quote" category="hidden">
+    <script>pairs.js</script>
+    <text-trigger key-equivalent="&quot;"></text-trigger>
+  </action>
+
+</action-recipes>
